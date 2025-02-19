@@ -4,4 +4,4 @@ This is a project for book store made with:
 - CSS
 - Javascript
 ## Live Preview
-Demo: <a herf="https://talalemran.github.io/book-store/" target="_blank">https://talalemran.github.io/book-store/</>
+Demo: <a herf="https://talalemran.github.io/book-store/" target="_blank">https://talalemran.github.io/book-store/</a>
